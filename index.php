@@ -47,4 +47,4 @@
 <body>
 </body>
 </html>
-/*Are you sure this is real flag? -> ISPCTF{L34rn1ng_Web_15_3z}*/
+<!-- Are you sure this is real flag? -> ISPCTF{L34rn1ng_Web_15_3z} --?>
